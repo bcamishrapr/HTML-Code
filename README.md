@@ -1,2 +1,2 @@
 # HTML-Code
-Contains simple coding html
+Contains simple coding using HTML AND CSS.
